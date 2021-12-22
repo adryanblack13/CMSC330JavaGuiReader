@@ -1,0 +1,12 @@
+Window "Pizza Flavor" (200, 200) Layout Flow:
+Label "Select your favorite Pizza!";
+Panel Layout Grid(4, 1, 5, 5):
+Group:
+Radio "Margarita";
+Radio "Mushrooms";
+Radio "Basil";
+Radio "Chicken";
+End;
+Button "Order Pizza";
+End;
+End.

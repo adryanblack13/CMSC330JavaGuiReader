@@ -1,0 +1,16 @@
+Window "AM Input 2" (400, 450) Layout Flow:
+Textfield 20;
+Panel Layout Grid(6, 5, 10, 10):
+Button "This";
+Button "Is";
+Button "A";
+Button "Test";
+Button "5";
+Button "6";
+Button "1";
+Button "2";
+Button "3";
+Label " Test 2";
+Button "0";
+End;
+End.
